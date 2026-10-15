@@ -1,0 +1,7 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+MUJOCO_LOG.TXT
+.env
