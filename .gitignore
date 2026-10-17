@@ -5,3 +5,18 @@ __pycache__/
 *.log
 MUJOCO_LOG.TXT
 .env
+
+# Exclude ZIP archives
+*.zip
+
+# Python virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+__pycache__/
+*.py[cod]
+
+# Local logs
+*.log
+MUJOCO_LOG.TXT
