@@ -20,3 +20,7 @@ __pycache__/
 # Local logs
 *.log
 MUJOCO_LOG.TXT
+
+# Task 2B generated files
+result.json
+**/result.json
